@@ -6,6 +6,7 @@
 <h1>🧠 GPT Memory</h1>
 
 <h3>Memory Driven Reasoning for Smarter AI Agents</h3>
+<h3>CA:</h3>
 
 GPT Memory is a library powered by GptMemory that introduces a new approach to improving LLM reasoning through actionable insights (aka beliefs) derived from continuous interactions and long term memory.
 
